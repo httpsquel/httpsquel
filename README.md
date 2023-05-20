@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello, world. This is Raquel!<br><br>I'm currently a FullStack Development student, focused on Java.<br><br>From São Paulo, Brazil. <br><br>Passionate about technology changing lives.<br><br><br><br>Contact me in bezerra.raquel@outlook.com>
+🔭 Hello, world. This is Raquel!<br><br>I'm currently a FullStack Development student, focused on Java.<br><br>From São Paulo, Brazil. <br><br>Passionate about technology changing lives.<br><br>Contact me in bezerra.raquel@outlook.com
 
 
 ## 🌐 Socials:
