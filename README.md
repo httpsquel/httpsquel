@@ -1,10 +1,10 @@
 # 👋🏻🌍 Hello, world!
 
- 👩🏻‍💻 I am Raquel Silva, Back-end Developer, currently graduating in Systems Analysis and Development, from São Paulo - SP, Brazil. 
+ 👩🏻‍💻 I am Raquel Silva, a React Native developer, currently graduating in Systems Analysis and Development, from São Paulo, Brazil. 
 
  🤖 Passionate about technology changing lives and building the future.
 
- 💻 At this moment, working on improving my skills with Java and Spring Boot Framework.
+ 💻 At this moment, working on improving my skills with React Native.
 
 👩🏻In my free time, I enjoy reading, spending time with family, friends (and my dogs🐶), as well as watching shows and documentaries. 
 
